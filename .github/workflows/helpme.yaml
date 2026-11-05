@@ -110,7 +110,9 @@ jobs:
                 # RESOURCE — CodeQL query suites:
                 # https://docs.github.com/en/code-security/code-scanning/creating-an-advanced-setup-for-code-scanning/codeql-code-scanning-for-compiled-languages#codeql-query-suites
                 #
+                 
                 
+
                 # Built-in options:
                 #   security-extended        → OWASP / CWE Top 25 + extra vuln checks
                 #   security-and-quality     → security-extended + maintainability rules
