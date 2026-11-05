@@ -4,6 +4,7 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+    
 # TODO#0: Declare workflow permissions.
 # Hint: scanners need to (a) read code, (b) upload SARIF to Security tab,
 #       (c) comment on PRs/issues, (d) request OIDC tokens.
